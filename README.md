@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Mishra</h1>
 <h3 align="center">A passionate full stack developer love to learn new technology everyday,love to code,love to travel and love to explore👨‍💻👨‍💻🚗🚗</h3>
-<img align="right" alt="devloper" width="500" src="https://github.com/Manojmm98/images/blob/main/github%20image%20main.jpg">
+<img align="right" alt="devloper" width="400" src="https://github.com/Manojmm98/images/blob/main/github%20image%20main.jpg">
 
 - 🌱 I’m currently learning **react,spring,hybernate**
 
