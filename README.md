@@ -27,4 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojmm98&" alt="manojmm98" /></p>
 
-
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Manojmm98">
+</a>
+<a href="https://github.com/Manojmm98?tab=followers"><img src="https://img.shields.io/github/followers/Manojmm98?label=Followers&style=social" alt="GitHub Badge"></a>
